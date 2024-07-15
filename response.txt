@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<order>
+	<id><![CDATA[1]]></id>
+	<id_address_delivery xlink:href="https://www.traveltags.nl/api/addresses/1"><![CDATA[1]]></id_address_delivery>
+	<id_address_invoice xlink:href="https://www.traveltags.nl/api/addresses/1"><![CDATA[1]]></id_address_invoice>
+	<id_cart xlink:href="https://www.traveltags.nl/api/carts/4"><![CDATA[4]]></id_cart>
+	<id_currency xlink:href="https://www.traveltags.nl/api/currencies/1"><![CDATA[1]]></id_currency>
+	<id_lang xlink:href="https://www.traveltags.nl/api/languages/2"><![CDATA[2]]></id_lang>
+	<id_customer xlink:href="https://www.traveltags.nl/api/customers/2"><![CDATA[2]]></id_customer>
+	<id_carrier xlink:href="https://www.traveltags.nl/api/carriers/352"><![CDATA[352]]></id_carrier>
+	<current_state xlink:href="https://www.traveltags.nl/api/order_states/2"><![CDATA[2]]></current_state>
+	<module><![CDATA[ps_wirepayment]]></module>
+	<invoice_number><![CDATA[1]]></invoice_number>
+	<invoice_date><![CDATA[2024-02-15 11:09:50]]></invoice_date>
+	<delivery_number><![CDATA[1]]></delivery_number>
+	<delivery_date><![CDATA[2024-02-15 11:09:50]]></delivery_date>
+	<valid><![CDATA[1]]></valid>
+	<date_add><![CDATA[2024-02-15 11:01:24]]></date_add>
+	<date_upd><![CDATA[2024-02-15 11:09:50]]></date_upd>
+	<shipping_number notFilterable="true"><![CDATA[]]></shipping_number>
+	<note><![CDATA[]]></note>
+	<id_shop_group><![CDATA[1]]></id_shop_group>
+	<id_shop><![CDATA[7]]></id_shop>
+	<secure_key><![CDATA[ace9624f046102de2dfdb5d646aa6167]]></secure_key>
+	<payment><![CDATA[Wire payment]]></payment>
+	<recyclable><![CDATA[0]]></recyclable>
+	<gift><![CDATA[0]]></gift>
+	<gift_message><![CDATA[]]></gift_message>
+	<mobile_theme><![CDATA[0]]></mobile_theme>
+	<total_discounts><![CDATA[0.000000]]></total_discounts>
+	<total_discounts_tax_incl><![CDATA[0.000000]]></total_discounts_tax_incl>
+	<total_discounts_tax_excl><![CDATA[0.000000]]></total_discounts_tax_excl>
+	<total_paid><![CDATA[15.950000]]></total_paid>
+	<total_paid_tax_incl><![CDATA[15.950000]]></total_paid_tax_incl>
+	<total_paid_tax_excl><![CDATA[13.180000]]></total_paid_tax_excl>
+	<total_paid_real><![CDATA[15.950000]]></total_paid_real>
+	<total_products><![CDATA[10.740000]]></total_products>
+	<total_products_wt><![CDATA[13.000000]]></total_products_wt>
+	<total_shipping><![CDATA[2.950000]]></total_shipping>
+	<total_shipping_tax_incl><![CDATA[2.950000]]></total_shipping_tax_incl>
+	<total_shipping_tax_excl><![CDATA[2.440000]]></total_shipping_tax_excl>
+	<carrier_tax_rate><![CDATA[21.000]]></carrier_tax_rate>
+	<total_wrapping><![CDATA[0.000000]]></total_wrapping>
+	<total_wrapping_tax_incl><![CDATA[0.000000]]></total_wrapping_tax_incl>
+	<total_wrapping_tax_excl><![CDATA[0.000000]]></total_wrapping_tax_excl>
+	<round_mode><![CDATA[2]]></round_mode>
+	<round_type><![CDATA[2]]></round_type>
+	<conversion_rate><![CDATA[1.000000]]></conversion_rate>
+	<reference><![CDATA[MDBUFWCEU]]></reference>
+<associations>
+<order_rows nodeType="order_row" virtualEntity="true">
+	<order_row>
+	<id><![CDATA[1]]></id>
+	<product_id xlink:href="https://www.traveltags.nl/api/products/21027"><![CDATA[21027]]></product_id>
+	<product_attribute_id><![CDATA[0]]></product_attribute_id>
+	<product_quantity><![CDATA[1]]></product_quantity>
+	<product_name><![CDATA[2 x Travel bug (2 setjes)]]></product_name>
+	<product_reference><![CDATA[ZS-24BQ-9MDF]]></product_reference>
+	<product_ean13><![CDATA[]]></product_ean13>
+	<product_isbn><![CDATA[]]></product_isbn>
+	<product_upc><![CDATA[]]></product_upc>
+	<product_price><![CDATA[10.743802]]></product_price>
+	<id_customization xlink:href="https://www.traveltags.nl/api/customizations/0"><![CDATA[0]]></id_customization>
+	<unit_price_tax_incl><![CDATA[13.000000]]></unit_price_tax_incl>
+	<unit_price_tax_excl><![CDATA[10.743802]]></unit_price_tax_excl>
+	</order_row>
+</order_rows>
+</associations>
+</order>
+</prestashop>
